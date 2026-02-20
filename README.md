@@ -52,6 +52,7 @@ Measures user interest in the profile.
 Indicates potential brand growth opportunities.
 
 🧠 DAX Logic Used
+
 ShowVisual = 
 VAR CurrentTime = NOW()
 RETURN
@@ -61,6 +62,7 @@ IF(
     1,
     0
 )
+
 🔎 Explanation
 
 NOW() returns the current date and time.
